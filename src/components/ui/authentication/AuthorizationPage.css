@@ -5,7 +5,7 @@
     background-color: white;
     min-height: 599px;
     border-radius: 20px;
-    background-image: url(../../../public/auth.svg);
+    background-image: url(/public/auth.svg);
     margin-top: 80px;
 
 }
